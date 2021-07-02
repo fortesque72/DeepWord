@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: a701ea0571b004149b6c3d9d87d66105
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: prim0
+    100004: prim1
+    100006: prim10
+    100008: prim11
+    100010: prim12
+    100012: prim13
+    100014: prim14
+    100016: prim15
+    100018: prim2
+    100020: prim3
+    100022: prim4
+    100024: prim5
+    100026: prim6
+    100028: prim7
+    100030: prim8
+    100032: prim9
+    400000: //RootNode
+    400002: prim0
+    400004: prim1
+    400006: prim10
+    400008: prim11
+    400010: prim12
+    400012: prim13
+    400014: prim14
+    400016: prim15
+    400018: prim2
+    400020: prim3
+    400022: prim4
+    400024: prim5
+    400026: prim6
+    400028: prim7
+    400030: prim8
+    400032: prim9
+    2100000: Material0-material
+    2100002: Material1-material
+    2100004: Material2-material
+    2100006: Material3-material
+    2100008: Material4-material
+    2100010: Material5-material
+    2100012: Material6-material
+    2100014: Material7-material
+    2100016: Material8-material
+    2100018: Material9-material
+    2100020: Material10-material
+    2300000: prim0
+    2300002: prim1
+    2300004: prim10
+    2300006: prim11
+    2300008: prim12
+    2300010: prim13
+    2300012: prim14
+    2300014: prim15
+    2300016: prim2
+    2300018: prim3
+    2300020: prim4
+    2300022: prim5
+    2300024: prim6
+    2300026: prim7
+    2300028: prim8
+    2300030: prim9
+    3300000: prim0
+    3300002: prim1
+    3300004: prim10
+    3300006: prim11
+    3300008: prim12
+    3300010: prim13
+    3300012: prim14
+    3300014: prim15
+    3300016: prim2
+    3300018: prim3
+    3300020: prim4
+    3300022: prim5
+    3300024: prim6
+    3300026: prim7
+    3300028: prim8
+    3300030: prim9
+    4300000: prim0
+    4300002: prim1
+    4300004: prim2
+    4300006: prim3
+    4300008: prim4
+    4300010: prim5
+    4300012: prim6
+    4300014: prim7
+    4300016: prim8
+    4300018: prim9
+    4300020: prim10
+    4300022: prim11
+    4300024: prim12
+    4300026: prim13
+    4300028: prim14
+    4300030: prim15
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material0-material
+    second: {fileID: 2100000, guid: 223ef7e790a744746b995cd54caa3baa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material1-material
+    second: {fileID: 2100000, guid: 828345f706db29a49b81396fc2f1e91e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material10-material
+    second: {fileID: 2100000, guid: 5674816652dbd9b4b8a71c90db574df6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material2-material
+    second: {fileID: 2100000, guid: 3870b3a842d0cd6449a1fcb193d65043, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material3-material
+    second: {fileID: 2100000, guid: bc3cbe9dfa8d3d1418c240a2e0bf928e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material4-material
+    second: {fileID: 2100000, guid: b842c9663d32f754ca15a2552634a300, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material5-material
+    second: {fileID: 2100000, guid: 0d6a22fec338b7d48ba5bf13348bd7fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material6-material
+    second: {fileID: 2100000, guid: 002232b46720c324c8b9a66c65a7b648, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material7-material
+    second: {fileID: 2100000, guid: e85e1c84c412d02479a413f81adc8ee2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material8-material
+    second: {fileID: 2100000, guid: 82e1cd36a089ff045a3867bcb19ed6fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material9-material
+    second: {fileID: 2100000, guid: a35219897eb60544eac83fd0334bf8db, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: B
+    second: {fileID: 2800000, guid: 682828a26239d1441a4bd806345f8d8b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: E
+    second: {fileID: 2800000, guid: 31c59351113ec524aa9359760a8a0ae8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: G
+    second: {fileID: 2800000, guid: 37f802da2d24f6b4cb4fd59e02d8aaa9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: I
+    second: {fileID: 2800000, guid: aa60a9860ac6c184f9a63c6ddd4b398f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: L
+    second: {fileID: 2800000, guid: db9041976a609784dae33e4025897c42, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: N
+    second: {fileID: 2800000, guid: 0a5adeb788612a240b8734a08abf5e79, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T
+    second: {fileID: 2800000, guid: 0875c7f57d4bdc7408df69658840c239, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Rock_CliffDesert3_1K_albedo
+    second: {fileID: 2800000, guid: 02e78d219c7cb704da10f3dafb3dab0f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: U
+    second: {fileID: 2800000, guid: dd217aae345596d4bb58041c0358e804, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
